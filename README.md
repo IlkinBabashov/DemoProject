@@ -1,5 +1,6 @@
 # DemoProject
-### FRONT END(/logos-frontend.png)
+![Babashov Ilkin](/logos-frontend.png)
+### FRONT END
 - [Visual studia code](https://code.visualstudio.com/)
 - [google.com](https://google.com/)
 - [FC Barcelona](https://fcbarcelona.com/)
